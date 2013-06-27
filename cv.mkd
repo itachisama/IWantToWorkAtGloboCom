@@ -1,19 +1,99 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+_Área de Webmedia_, _Plataforma de Cadastro_
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+**[CV Leandro Jorge do Nascimento Silva]**
+ 
+ **Dados Pessoais** <br/>
+  Leandro Jorge do Nascimento Silva<br/>
+  Brasileiro, 30 anos (21/03/1983), solteiro<br/>
+  Celular: (21) 9827-9924<br/>
+  leandro.unirio@gmail.com<br/>
+ 
+ 	 	 	 	 
+**Objetivo**<br/>
+ Atuar na área de desenvolvimento com ênfase em multimídia.
+ <br/>
+	 	 	 	 
+**Perfil profissional**<br/>
+  Experiência em desenvolvimento web com PHP, utilizando frameworks de mercado, como Zend Framework, CakePHP e Symphony.<br/>
+  Experiência em desenvolvimento front-end com CSS, JavaScript e JQuery.<br/>
+  Experiência em desenvolvimento C/C++ em ambiente Linux, utilizando o framework QT(versões 3 e 4).<br/>
+  Experiência em desenvolvimento Java com JEE, Hibernate, JSF, Struts, e WebService(REST).<br/>
+  Experiência na configuração do servidor web Apache.<br/>
+  Experiência na configuração de servidores proxy(Squid), email(Postfix) e Samba.
+  Experiência na configuração de servidores de aplicação: Jboss 5 e 7, Tomcat 6 e 7.<br/>
+  Conhecimento avançado nos SGBD's PostgreSQL e MySQL.<br/>
+  Atuei com método ágil Scrum.<br/>
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+ 	 	 	 	 
+**Formação**:
+<br/>
+
+**Graduação**<br/>
+	Cursando Sistemas de Informação.
+<br/>	 	 
+**Idiomas**
+<br/>
+  Inglês: leitura avançada, escrita avançada, conversação avançada.
+ 	 	 	 	 
+**Histórico profissional**
+<br/>
+*TV BRASIL - ACERP - desde 04/2013*<br/>
+*Analista de Desenvolvimento de Sistemas - desde 04/2013*<br/>
+  Desenvolvimento e manutenção de sistema para controle de todo o fluxo da TV
+  analógica e integração com a TV digital. Manutenção e desenvolvimento de
+  WebService para integração com sistemas de terceiros e disponibilização de
+  serviço para aplicativos Android e IOS. Tecnologias Utilizadas: JAVA, JAAS, JSF,
+  Hibernate, JPA, Spring, JDBC, RichFaces, PrimeFaces, JavaScript, Jquery, Twitter Bootstrap e CSS.
+  Ferramenta de build: MAVEN.
+  Servidores de Aplicação JBoss 5 e 7.
+  Container: Tomcat 6 e 7.
+  Metodologias ágeis: SCRUM.
+
+**Hypermarcas S/A - de 06/2012 a 03/2013**<br/>
+*Programador Web Júnior 06/2012 – 03/2013*<br/>
+  Desenvolvimento de aplicações web em PHP para as marcas da Empresa.<br/>
+  Desenvolvimento front-end usando CSS, Javascript e JQuery.<br/>
+  Desenvolvimento de aplicativos para as páginas do Facebook das marcas.<br/>
+  Programação utilizando a API Open Graph do Facebook.<br/>
+  Banco de dados: Mysql.<br/>
+  
+**Música & Mercado - de 11/2011 a 06/2012**
+*Programador PHP<br/>
+  Desenvolvimento de aplicações web em PHP.
+  Desenvolvimento front-end usando CSS, Javascript e JQuery.<br/>
+  Banco de dados: Mysql.<br/>
+  
+**Quality Software - de 03/2011 a 11/2011**
+*Analista de Sistemas Júnior IV*<br/>
+  Análise e levantamento de requisitos, elaboração de documentação, casos de uso.<br/>
+  Desenvolvimento de sistemas em Java utilizando:
+  Java Server Faces, Facelets, EJB, Hibernate, Portlets, utilização do portal
+  Liferay, JavaScript e CSS. Servidor de aplicação Jboss, auxílio e configuração
+  em servidores Linux. Desenvolvimento de scripts em Shell.<br/>
+  Ferramenta de build: Ant.<br/>
+  Conhecimento da especificação JSR 168 e JSR286.<br/>
+  Desenvolvimento e manutenção de websites em PHP.<br/>
+  Banco de dados: Oracle e Mysql.<br/>
+
+**CEDERJ - de 06/2010 a 03/2011**
+*Programador C/C++*<br/>
+  Desenvolvimento e manutenção de ferramenta de vídeoconferência em C++ utilizando o framework QT(versões 3 e 4) para interface gráfica,
+  e utilizando a biblioteca Gloox para implementação de chat utilizando o protocolo XMPP e um servidor Jabber.<br/>
+  
+**Rightsize - de 10/2009 a 06/2010**
+*Estagiário C#*<br/>
+  Estágio em desenvolvimento .net, na linguagem C# em ambiente web e desktop.<br/>
+  Banco de dados: SQL Server.<br/>
+  
+**Redesist - de 03/2008 a 10/2009**
+*Estagiário de TI*<br/>
+  Desenvolvimento e manutenção de websites em PHP.<br/>
+  Administração de servidores Linux(web, proxy, email).<br/>
+  Suporte ao usuário.<br/>
+  Banco de dados: Mysql.<br/>
